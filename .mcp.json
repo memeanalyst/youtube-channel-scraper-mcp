@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "youtube-channel-scraper": {
+      "url": "https://mcp.apify.com?tools=fetch-actor-details,magnova/youtube-channel-scraper"
+    }
+  }
+}
